@@ -14,7 +14,7 @@
         "target": 263.81775,
         "range": "86.62 - 212.19",
         "fcf": 58128998400,
-        "last_update": "2026-03-02 21:43:58"
+        "last_update": "2026-03-02 21:45:46"
     },
     "AAPL": {
         "symbol": "AAPL",
@@ -31,7 +31,7 @@
         "target": 293.06952,
         "range": "169.21 - 288.62",
         "fcf": 106312753152,
-        "last_update": "2026-03-02 21:43:59"
+        "last_update": "2026-03-02 21:45:46"
     },
     "TSLA": {
         "symbol": "TSLA",
@@ -48,7 +48,7 @@
         "target": 421.729,
         "range": "214.25 - 498.83",
         "fcf": 3732624896,
-        "last_update": "2026-03-02 21:43:59"
+        "last_update": "2026-03-02 21:45:46"
     },
     "MSFT": {
         "symbol": "MSFT",
@@ -65,7 +65,7 @@
         "target": 595.99567,
         "range": "344.79 - 555.45",
         "fcf": 53640626176,
-        "last_update": "2026-03-02 21:43:59"
+        "last_update": "2026-03-02 21:45:46"
     },
     "SAN.MC": {
         "symbol": "SAN.MC",
@@ -82,13 +82,13 @@
         "target": 11.8455,
         "range": "4.645 - 11.26",
         "fcf": 0,
-        "last_update": "2026-03-02 21:43:59"
+        "last_update": "2026-03-02 21:45:47"
     },
     "BTC-EUR": {
         "symbol": "BTC-EUR",
         "company_name": "Bitcoin EUR",
-        "price": 59399.074,
-        "market_cap": 1187804479488,
+        "price": 59406.203,
+        "market_cap": 1187947085824,
         "pe_ratio": "N/A",
         "ps_ratio": "N/A",
         "beta": "N/A",
@@ -99,7 +99,7 @@
         "target": 0,
         "range": "51050.938 - 107745.13",
         "fcf": 0,
-        "last_update": "2026-03-02 21:43:59"
+        "last_update": "2026-03-02 21:45:47"
     },
     "ERO": {
         "symbol": "ERO",
@@ -116,7 +116,7 @@
         "target": 37.0,
         "range": "9.3 - 39.799",
         "fcf": -48765624,
-        "last_update": "2026-03-02 21:44:00"
+        "last_update": "2026-03-02 21:45:47"
     },
     "NVAX": {
         "symbol": "NVAX",
@@ -133,6 +133,6 @@
         "target": 13.77778,
         "range": "5.01 - 11.97",
         "fcf": -331942880,
-        "last_update": "2026-03-02 21:44:00"
+        "last_update": "2026-03-02 21:45:48"
     }
 }
