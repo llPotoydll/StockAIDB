@@ -2,10 +2,10 @@
     "NVDA": {
         "symbol": "NVDA",
         "company_name": "NVIDIA Corporation",
-        "price": 182.54,
-        "market_cap": 4436634632192,
-        "pe_ratio": 37.17719,
-        "ps_ratio": 20.545872,
+        "price": 182.496,
+        "market_cap": 4435417235456,
+        "pe_ratio": 37.16699,
+        "ps_ratio": 20.540922,
         "beta": 2.314,
         "margin": 55.603004,
         "growth": 73.2,
@@ -14,15 +14,15 @@
         "target": 263.81775,
         "range": "86.62 - 212.19",
         "fcf": 58128998400,
-        "last_update": "2026-03-02 18:28:39"
+        "last_update": "2026-03-02 18:29:18"
     },
     "AAPL": {
         "symbol": "AAPL",
         "company_name": "Apple Inc.",
-        "price": 265.55,
-        "market_cap": 3903033966592,
-        "pe_ratio": 33.613922,
-        "ps_ratio": 8.959784,
+        "price": 265.53,
+        "market_cap": 3902740103168,
+        "pe_ratio": 33.611393,
+        "ps_ratio": 8.959108,
         "beta": 1.107,
         "margin": 27.037,
         "growth": 15.7,
@@ -31,15 +31,15 @@
         "target": 293.06952,
         "range": "169.21 - 288.62",
         "fcf": 106312753152,
-        "last_update": "2026-03-02 18:28:39"
+        "last_update": "2026-03-02 18:29:19"
     },
     "TSLA": {
         "symbol": "TSLA",
         "company_name": "Tesla, Inc.",
-        "price": 402.03,
-        "market_cap": 1508590223360,
-        "pe_ratio": 368.83484,
-        "ps_ratio": 15.908867,
+        "price": 401.9758,
+        "market_cap": 1508386799616,
+        "pe_ratio": 368.78513,
+        "ps_ratio": 15.906722,
         "beta": 1.887,
         "margin": 4.0009998,
         "growth": -3.1,
@@ -48,15 +48,15 @@
         "target": 421.729,
         "range": "214.25 - 498.83",
         "fcf": 3732624896,
-        "last_update": "2026-03-02 18:28:40"
+        "last_update": "2026-03-02 18:29:19"
     },
     "MSFT": {
         "symbol": "MSFT",
         "company_name": "Microsoft Corporation",
-        "price": 400.495,
-        "market_cap": 2976630177792,
-        "pe_ratio": 25.062265,
-        "ps_ratio": 9.744969,
+        "price": 400.61,
+        "market_cap": 2977410580480,
+        "pe_ratio": 25.068836,
+        "ps_ratio": 9.747767,
         "beta": 1.084,
         "margin": 39.044000000000004,
         "growth": 16.7,
@@ -65,7 +65,7 @@
         "target": 595.99567,
         "range": "344.79 - 555.45",
         "fcf": 53640626176,
-        "last_update": "2026-03-02 18:28:40"
+        "last_update": "2026-03-02 18:29:19"
     },
     "SAN.MC": {
         "symbol": "SAN.MC",
@@ -82,7 +82,7 @@
         "target": 11.8455,
         "range": "4.645 - 11.26",
         "fcf": 0,
-        "last_update": "2026-03-02 18:28:40"
+        "last_update": "2026-03-02 18:29:19"
     },
     "BTC-EUR": {
         "symbol": "BTC-EUR",
@@ -99,15 +99,15 @@
         "target": 0,
         "range": "51050.938 - 107745.13",
         "fcf": 0,
-        "last_update": "2026-03-02 18:28:40"
+        "last_update": "2026-03-02 18:29:19"
     },
     "ERO": {
         "symbol": "ERO",
         "company_name": "Ero Copper Corp.",
-        "price": 32.975,
-        "market_cap": 3434483456,
-        "pe_ratio": 24.793232,
-        "ps_ratio": 5.8386846,
+        "price": 32.96,
+        "market_cap": 3432921344,
+        "pe_ratio": 24.781954,
+        "ps_ratio": 5.8360286,
         "beta": 1.565,
         "margin": 23.427999,
         "growth": 41.9,
@@ -116,14 +116,14 @@
         "target": 37.0,
         "range": "9.3 - 39.799",
         "fcf": -48765624,
-        "last_update": "2026-03-02 18:28:41"
+        "last_update": "2026-03-02 18:29:20"
     },
     "NVAX": {
         "symbol": "NVAX",
         "company_name": "Novavax, Inc.",
         "price": 10.245,
-        "market_cap": 1664802176,
-        "pe_ratio": 5.097015,
+        "market_cap": 1664005888,
+        "pe_ratio": 5.0945773,
         "ps_ratio": 1.4818275,
         "beta": 2.632,
         "margin": 39.191002000000005,
@@ -133,6 +133,6 @@
         "target": 13.77778,
         "range": "5.01 - 11.97",
         "fcf": -331942880,
-        "last_update": "2026-03-02 18:28:41"
+        "last_update": "2026-03-02 18:29:20"
     }
 }
