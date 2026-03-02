@@ -2,46 +2,46 @@
     "NVDA": {
         "symbol": "NVDA",
         "company_name": "NVIDIA Corporation",
-        "price": 182.695,
-        "market_cap": 4440523276288,
-        "pe_ratio": 37.209778,
+        "price": 182.69,
+        "market_cap": 4440280530944,
+        "pe_ratio": 37.20774,
         "margin": 55.603004,
         "growth": 73.2,
         "target": 263.81775,
-        "last_update": "2026-03-02 18:18:23"
+        "last_update": "2026-03-02 18:18:27"
     },
     "AAPL": {
         "symbol": "AAPL",
         "company_name": "Apple Inc.",
-        "price": 265.48,
-        "market_cap": 3902005575680,
-        "pe_ratio": 33.605064,
+        "price": 265.49,
+        "market_cap": 3902152114176,
+        "pe_ratio": 33.606327,
         "margin": 27.037,
         "growth": 15.7,
         "target": 293.06952,
-        "last_update": "2026-03-02 18:18:24"
+        "last_update": "2026-03-02 18:18:27"
     },
     "TSLA": {
         "symbol": "TSLA",
         "company_name": "Tesla, Inc.",
         "price": 402.45,
-        "market_cap": 1510353797120,
-        "pe_ratio": 369.26605,
+        "market_cap": 1510128746496,
+        "pe_ratio": 369.211,
         "margin": 4.0009998,
         "growth": -3.1,
         "target": 421.729,
-        "last_update": "2026-03-02 18:18:24"
+        "last_update": "2026-03-02 18:18:28"
     },
     "MSFT": {
         "symbol": "MSFT",
         "company_name": "Microsoft Corporation",
-        "price": 400.5,
-        "market_cap": 2976853000192,
-        "pe_ratio": 25.064142,
+        "price": 400.46,
+        "market_cap": 2976369868800,
+        "pe_ratio": 25.060076,
         "margin": 39.044000000000004,
         "growth": 16.7,
         "target": 595.99567,
-        "last_update": "2026-03-02 18:18:25"
+        "last_update": "2026-03-02 18:18:28"
     },
     "SAN.MC": {
         "symbol": "SAN.MC",
@@ -52,7 +52,7 @@
         "margin": 30.107,
         "growth": -6.4,
         "target": 11.8455,
-        "last_update": "2026-03-02 18:18:25"
+        "last_update": "2026-03-02 18:18:29"
     },
     "BTC-EUR": {
         "symbol": "BTC-EUR",
@@ -63,7 +63,7 @@
         "margin": 0,
         "growth": 0,
         "target": 0,
-        "last_update": "2026-03-02 18:18:26"
+        "last_update": "2026-03-02 18:18:29"
     },
     "ERO": {
         "symbol": "ERO",
@@ -74,7 +74,7 @@
         "margin": 23.427999,
         "growth": 41.9,
         "target": 37.0,
-        "last_update": "2026-03-02 18:18:26"
+        "last_update": "2026-03-02 18:18:29"
     },
     "NVAX": {
         "symbol": "NVAX",
@@ -85,6 +85,6 @@
         "margin": 39.191002000000005,
         "growth": 66.60000000000001,
         "target": 13.77778,
-        "last_update": "2026-03-02 18:18:26"
+        "last_update": "2026-03-02 18:18:30"
     }
 }
