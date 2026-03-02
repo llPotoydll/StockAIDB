@@ -2,10 +2,10 @@
     "NVDA": {
         "symbol": "NVDA",
         "company_name": "NVIDIA Corporation",
-        "price": 182.31,
-        "market_cap": 4430801403904,
-        "pe_ratio": 37.12831,
-        "ps_ratio": 20.519985,
+        "price": 182.1024,
+        "market_cap": 4425998925824,
+        "pe_ratio": 37.088066,
+        "ps_ratio": 20.496618,
         "beta": 2.314,
         "margin": 55.603004,
         "growth": 73.2,
@@ -14,15 +14,15 @@
         "target": 263.81775,
         "range": "86.62 - 212.19",
         "fcf": 58128998400,
-        "last_update": "2026-03-02 20:26:17"
+        "last_update": "2026-03-02 20:27:55"
     },
     "AAPL": {
         "symbol": "AAPL",
         "company_name": "Apple Inc.",
-        "price": 264.46,
-        "market_cap": 3886866497536,
-        "pe_ratio": 33.474686,
-        "ps_ratio": 8.923006,
+        "price": 264.34,
+        "market_cap": 3885102530560,
+        "pe_ratio": 33.45949,
+        "ps_ratio": 8.918958,
         "beta": 1.107,
         "margin": 27.037,
         "growth": 15.7,
@@ -31,15 +31,15 @@
         "target": 293.06952,
         "range": "169.21 - 288.62",
         "fcf": 106312753152,
-        "last_update": "2026-03-02 20:26:18"
+        "last_update": "2026-03-02 20:27:55"
     },
     "TSLA": {
         "symbol": "TSLA",
         "company_name": "Tesla, Inc.",
-        "price": 399.51,
-        "market_cap": 1499096547328,
-        "pe_ratio": 366.51376,
-        "ps_ratio": 15.809147,
+        "price": 399.66,
+        "market_cap": 1499847065600,
+        "pe_ratio": 366.69724,
+        "ps_ratio": 15.8150835,
         "beta": 1.887,
         "margin": 4.0009998,
         "growth": -3.1,
@@ -48,15 +48,15 @@
         "target": 421.729,
         "range": "214.25 - 498.83",
         "fcf": 3732624896,
-        "last_update": "2026-03-02 20:26:18"
+        "last_update": "2026-03-02 20:27:55"
     },
     "MSFT": {
         "symbol": "MSFT",
         "company_name": "Microsoft Corporation",
-        "price": 397.665,
-        "market_cap": 2955596529664,
-        "pe_ratio": 24.88517,
-        "ps_ratio": 9.676108,
+        "price": 397.4832,
+        "market_cap": 2953998761984,
+        "pe_ratio": 24.871716,
+        "ps_ratio": 9.671684,
         "beta": 1.084,
         "margin": 39.044000000000004,
         "growth": 16.7,
@@ -65,7 +65,7 @@
         "target": 595.99567,
         "range": "344.79 - 555.45",
         "fcf": 53640626176,
-        "last_update": "2026-03-02 20:26:18"
+        "last_update": "2026-03-02 20:27:56"
     },
     "SAN.MC": {
         "symbol": "SAN.MC",
@@ -82,13 +82,13 @@
         "target": 11.8455,
         "range": "4.645 - 11.26",
         "fcf": 0,
-        "last_update": "2026-03-02 20:26:19"
+        "last_update": "2026-03-02 20:27:56"
     },
     "BTC-EUR": {
         "symbol": "BTC-EUR",
         "company_name": "Bitcoin EUR",
-        "price": 58999.176,
-        "market_cap": 1179806072832,
+        "price": 59045.008,
+        "market_cap": 1180722528256,
         "pe_ratio": "N/A",
         "ps_ratio": "N/A",
         "beta": "N/A",
@@ -99,15 +99,15 @@
         "target": 0,
         "range": "51050.938 - 107745.13",
         "fcf": 0,
-        "last_update": "2026-03-02 20:26:19"
+        "last_update": "2026-03-02 20:27:56"
     },
     "ERO": {
         "symbol": "ERO",
         "company_name": "Ero Copper Corp.",
-        "price": 33.13,
-        "market_cap": 3450627584,
-        "pe_ratio": 24.909775,
-        "ps_ratio": 5.86613,
+        "price": 33.09,
+        "market_cap": 3446461440,
+        "pe_ratio": 24.879698,
+        "ps_ratio": 5.8590474,
         "beta": 1.565,
         "margin": 23.427999,
         "growth": 41.9,
@@ -116,15 +116,15 @@
         "target": 37.0,
         "range": "9.3 - 39.799",
         "fcf": -48765624,
-        "last_update": "2026-03-02 20:26:19"
+        "last_update": "2026-03-02 20:27:56"
     },
     "NVAX": {
         "symbol": "NVAX",
         "company_name": "Novavax, Inc.",
-        "price": 10.255,
-        "market_cap": 1666427136,
-        "pe_ratio": 5.10199,
-        "ps_ratio": 1.4832739,
+        "price": 10.25,
+        "market_cap": 1665614720,
+        "pe_ratio": 5.0995026,
+        "ps_ratio": 1.4825507,
         "beta": 2.632,
         "margin": 39.191002000000005,
         "growth": 66.60000000000001,
@@ -133,6 +133,6 @@
         "target": 13.77778,
         "range": "5.01 - 11.97",
         "fcf": -331942880,
-        "last_update": "2026-03-02 20:26:19"
+        "last_update": "2026-03-02 20:27:57"
     }
 }
