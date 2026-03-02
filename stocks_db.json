@@ -14,7 +14,7 @@
         "target": 263.81775,
         "range": "86.62 - 212.19",
         "fcf": 58128998400,
-        "last_update": "2026-03-02 21:58:59"
+        "last_update": "2026-03-02 22:00:47"
     },
     "AAPL": {
         "symbol": "AAPL",
@@ -31,7 +31,7 @@
         "target": 293.06952,
         "range": "169.21 - 288.62",
         "fcf": 106312753152,
-        "last_update": "2026-03-02 21:59:00"
+        "last_update": "2026-03-02 22:00:47"
     },
     "TSLA": {
         "symbol": "TSLA",
@@ -48,7 +48,7 @@
         "target": 421.729,
         "range": "214.25 - 498.83",
         "fcf": 3732624896,
-        "last_update": "2026-03-02 21:59:00"
+        "last_update": "2026-03-02 22:00:47"
     },
     "MSFT": {
         "symbol": "MSFT",
@@ -65,7 +65,7 @@
         "target": 595.99567,
         "range": "344.79 - 555.45",
         "fcf": 53640626176,
-        "last_update": "2026-03-02 21:59:00"
+        "last_update": "2026-03-02 22:00:48"
     },
     "SAN.MC": {
         "symbol": "SAN.MC",
@@ -82,13 +82,13 @@
         "target": 11.8455,
         "range": "4.645 - 11.26",
         "fcf": 0,
-        "last_update": "2026-03-02 21:59:01"
+        "last_update": "2026-03-02 22:00:48"
     },
     "BTC-EUR": {
         "symbol": "BTC-EUR",
         "company_name": "Bitcoin EUR",
-        "price": 59422.297,
-        "market_cap": 1188268867584,
+        "price": 59379.945,
+        "market_cap": 1187422011392,
         "pe_ratio": "N/A",
         "ps_ratio": "N/A",
         "beta": "N/A",
@@ -99,7 +99,7 @@
         "target": 0,
         "range": "51050.938 - 107745.13",
         "fcf": 0,
-        "last_update": "2026-03-02 21:59:01"
+        "last_update": "2026-03-02 22:00:49"
     },
     "ERO": {
         "symbol": "ERO",
@@ -116,7 +116,7 @@
         "target": 37.0,
         "range": "9.3 - 39.799",
         "fcf": -48765624,
-        "last_update": "2026-03-02 21:59:01"
+        "last_update": "2026-03-02 22:00:49"
     },
     "NVAX": {
         "symbol": "NVAX",
@@ -133,6 +133,23 @@
         "target": 13.77778,
         "range": "5.01 - 11.97",
         "fcf": -331942880,
-        "last_update": "2026-03-02 21:59:01"
+        "last_update": "2026-03-02 22:00:50"
+    },
+    "ASTS": {
+        "symbol": "ASTS",
+        "company_name": "AST SpaceMobile, Inc.",
+        "price": 86.92,
+        "market_cap": 33037817856,
+        "pe_ratio": "N/A",
+        "ps_ratio": 1782.8406,
+        "beta": 2.708,
+        "margin": 0.0,
+        "growth": 1239.8999999999999,
+        "roe": -39.031,
+        "dividend": 0,
+        "target": 80.3875,
+        "range": "18.22 - 129.89",
+        "fcf": -836152384,
+        "last_update": "2026-03-02 22:00:50"
     }
 }
