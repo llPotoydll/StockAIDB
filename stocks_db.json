@@ -2,46 +2,46 @@
     "NVDA": {
         "symbol": "NVDA",
         "company_name": "NVIDIA Corporation",
-        "price": 182.775,
-        "market_cap": 4442225115136,
-        "pe_ratio": 37.224033,
+        "price": 182.65,
+        "market_cap": 4439794515968,
+        "pe_ratio": 37.203667,
         "margin": 55.603004,
         "growth": 73.2,
         "target": 263.81775,
-        "last_update": "2026-03-02 17:53:54"
+        "last_update": "2026-03-02 17:54:51"
     },
     "AAPL": {
         "symbol": "AAPL",
         "company_name": "Apple Inc.",
-        "price": 265.61,
-        "market_cap": 3903915819008,
-        "pe_ratio": 33.621517,
+        "price": 265.64,
+        "market_cap": 3904357269504,
+        "pe_ratio": 33.625317,
         "margin": 27.037,
         "growth": 15.7,
         "target": 293.06952,
-        "last_update": "2026-03-02 17:53:54"
+        "last_update": "2026-03-02 17:54:51"
     },
     "TSLA": {
         "symbol": "TSLA",
         "company_name": "Tesla, Inc.",
-        "price": 401.52,
-        "market_cap": 1506657697792,
-        "pe_ratio": 368.3624,
+        "price": 401.49,
+        "market_cap": 1506896773120,
+        "pe_ratio": 368.4208,
         "margin": 4.0009998,
         "growth": -3.1,
         "target": 421.729,
-        "last_update": "2026-03-02 17:53:55"
+        "last_update": "2026-03-02 17:54:52"
     },
     "MSFT": {
         "symbol": "MSFT",
         "company_name": "Microsoft Corporation",
-        "price": 399.95,
-        "market_cap": 2972579528704,
-        "pe_ratio": 25.028162,
+        "price": 400.19,
+        "market_cap": 2974363418624,
+        "pe_ratio": 25.04318,
         "margin": 39.044000000000004,
         "growth": 16.7,
         "target": 595.99567,
-        "last_update": "2026-03-02 17:53:55"
+        "last_update": "2026-03-02 17:54:52"
     },
     "SAN.MC": {
         "symbol": "SAN.MC",
@@ -52,17 +52,39 @@
         "margin": 30.107,
         "growth": -6.4,
         "target": 11.8455,
-        "last_update": "2026-03-02 17:53:56"
+        "last_update": "2026-03-02 17:54:52"
     },
-    "BTC-USD": {
-        "symbol": "BTC-USD",
-        "company_name": "Bitcoin USD",
-        "price": 68951.23,
-        "market_cap": 1378813607936,
+    "BTC-EUR": {
+        "symbol": "BTC-EUR",
+        "company_name": "Bitcoin EUR",
+        "price": 59027.566,
+        "market_cap": 1180370731008,
         "pe_ratio": "N/A",
         "margin": 0,
         "growth": 0,
         "target": 0,
-        "last_update": "2026-03-02 17:53:56"
+        "last_update": "2026-03-02 17:54:53"
+    },
+    "ERO": {
+        "symbol": "ERO",
+        "company_name": "Ero Copper Corp.",
+        "price": 32.865,
+        "market_cap": 3423026944,
+        "pe_ratio": 24.710527,
+        "margin": 23.427999,
+        "growth": 41.9,
+        "target": 37.0,
+        "last_update": "2026-03-02 17:54:53"
+    },
+    "NVAX": {
+        "symbol": "NVAX",
+        "company_name": "Novavax, Inc.",
+        "price": 10.315,
+        "market_cap": 1676177024,
+        "pe_ratio": 5.1318407,
+        "margin": 39.191002000000005,
+        "growth": 66.60000000000001,
+        "target": 13.77778,
+        "last_update": "2026-03-02 17:54:54"
     }
 }
