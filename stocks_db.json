@@ -2,10 +2,10 @@
     "NVDA": {
         "symbol": "NVDA",
         "company_name": "NVIDIA Corporation",
-        "price": 182.16,
-        "market_cap": 4427398774784,
-        "pe_ratio": 37.0998,
-        "ps_ratio": 20.503101,
+        "price": 182.145,
+        "market_cap": 4427034394624,
+        "pe_ratio": 37.096745,
+        "ps_ratio": 20.501413,
         "beta": 2.314,
         "margin": 55.603004,
         "growth": 73.2,
@@ -14,15 +14,15 @@
         "target": 263.81775,
         "range": "86.62 - 212.19",
         "fcf": 58128998400,
-        "last_update": "2026-03-02 18:57:46"
+        "last_update": "2026-03-02 18:57:55"
     },
     "AAPL": {
         "symbol": "AAPL",
         "company_name": "Apple Inc.",
-        "price": 264.66,
-        "market_cap": 3889952980992,
-        "pe_ratio": 33.501266,
-        "ps_ratio": 8.929754,
+        "price": 264.6499,
+        "market_cap": 3889804607488,
+        "pe_ratio": 33.49999,
+        "ps_ratio": 8.929414,
         "beta": 1.107,
         "margin": 27.037,
         "growth": 15.7,
@@ -31,15 +31,15 @@
         "target": 293.06952,
         "range": "169.21 - 288.62",
         "fcf": 106312753152,
-        "last_update": "2026-03-02 18:57:46"
+        "last_update": "2026-03-02 18:57:55"
     },
     "TSLA": {
         "symbol": "TSLA",
         "company_name": "Tesla, Inc.",
-        "price": 400.77,
-        "market_cap": 1503862063104,
-        "pe_ratio": 367.67886,
-        "ps_ratio": 15.859007,
+        "price": 400.72,
+        "market_cap": 1503824576512,
+        "pe_ratio": 367.6697,
+        "ps_ratio": 15.857028,
         "beta": 1.887,
         "margin": 4.0009998,
         "growth": -3.1,
@@ -48,15 +48,15 @@
         "target": 421.729,
         "range": "214.25 - 498.83",
         "fcf": 3732624896,
-        "last_update": "2026-03-02 18:57:46"
+        "last_update": "2026-03-02 18:57:56"
     },
     "MSFT": {
         "symbol": "MSFT",
         "company_name": "Microsoft Corporation",
-        "price": 398.7669,
-        "market_cap": 2963786432512,
-        "pe_ratio": 24.954124,
-        "ps_ratio": 9.702921,
+        "price": 398.78,
+        "market_cap": 2963809239040,
+        "pe_ratio": 24.954317,
+        "ps_ratio": 9.703239,
         "beta": 1.084,
         "margin": 39.044000000000004,
         "growth": 16.7,
@@ -65,7 +65,7 @@
         "target": 595.99567,
         "range": "344.79 - 555.45",
         "fcf": 53640626176,
-        "last_update": "2026-03-02 18:57:47"
+        "last_update": "2026-03-02 18:57:56"
     },
     "SAN.MC": {
         "symbol": "SAN.MC",
@@ -82,7 +82,7 @@
         "target": 11.8455,
         "range": "4.645 - 11.26",
         "fcf": 0,
-        "last_update": "2026-03-02 18:57:47"
+        "last_update": "2026-03-02 18:57:56"
     },
     "BTC-EUR": {
         "symbol": "BTC-EUR",
@@ -99,7 +99,7 @@
         "target": 0,
         "range": "51050.938 - 107745.13",
         "fcf": 0,
-        "last_update": "2026-03-02 18:57:47"
+        "last_update": "2026-03-02 18:57:56"
     },
     "ERO": {
         "symbol": "ERO",
@@ -116,15 +116,15 @@
         "target": 37.0,
         "range": "9.3 - 39.799",
         "fcf": -48765624,
-        "last_update": "2026-03-02 18:57:47"
+        "last_update": "2026-03-02 18:57:57"
     },
     "NVAX": {
         "symbol": "NVAX",
         "company_name": "Novavax, Inc.",
-        "price": 10.2,
-        "market_cap": 1657489664,
-        "pe_ratio": 5.074627,
-        "ps_ratio": 1.4753187,
+        "price": 10.21,
+        "market_cap": 1659114752,
+        "pe_ratio": 5.0796022,
+        "ps_ratio": 1.4767652,
         "beta": 2.632,
         "margin": 39.191002000000005,
         "growth": 66.60000000000001,
@@ -133,6 +133,6 @@
         "target": 13.77778,
         "range": "5.01 - 11.97",
         "fcf": -331942880,
-        "last_update": "2026-03-02 18:57:48"
+        "last_update": "2026-03-02 18:57:57"
     }
 }
