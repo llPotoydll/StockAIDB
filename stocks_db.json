@@ -2,10 +2,10 @@
     "NVDA": {
         "symbol": "NVDA",
         "company_name": "NVIDIA Corporation",
-        "price": 182.34,
-        "market_cap": 4431895592960,
-        "pe_ratio": 37.137474,
-        "ps_ratio": 20.52336,
+        "price": 182.35,
+        "market_cap": 4432259973120,
+        "pe_ratio": 37.14053,
+        "ps_ratio": 20.524488,
         "beta": 2.314,
         "margin": 55.603004,
         "growth": 73.2,
@@ -14,15 +14,15 @@
         "target": 263.81775,
         "range": "86.62 - 212.19",
         "fcf": 58128998400,
-        "last_update": "2026-03-02 18:42:55"
+        "last_update": "2026-03-02 18:45:29"
     },
     "AAPL": {
         "symbol": "AAPL",
         "company_name": "Apple Inc.",
-        "price": 264.88,
-        "market_cap": 3893186527232,
-        "pe_ratio": 33.529114,
-        "ps_ratio": 8.937178,
+        "price": 264.97,
+        "market_cap": 3894509305856,
+        "pe_ratio": 33.540504,
+        "ps_ratio": 8.940214,
         "beta": 1.107,
         "margin": 27.037,
         "growth": 15.7,
@@ -31,15 +31,15 @@
         "target": 293.06952,
         "range": "169.21 - 288.62",
         "fcf": 106312753152,
-        "last_update": "2026-03-02 18:42:55"
+        "last_update": "2026-03-02 18:45:30"
     },
     "TSLA": {
         "symbol": "TSLA",
         "company_name": "Tesla, Inc.",
-        "price": 400.8,
-        "market_cap": 1503974653952,
-        "pe_ratio": 367.7064,
-        "ps_ratio": 15.860194,
+        "price": 401.0,
+        "market_cap": 1504725172224,
+        "pe_ratio": 367.8899,
+        "ps_ratio": 15.868109,
         "beta": 1.887,
         "margin": 4.0009998,
         "growth": -3.1,
@@ -48,7 +48,7 @@
         "target": 421.729,
         "range": "214.25 - 498.83",
         "fcf": 3732624896,
-        "last_update": "2026-03-02 18:42:55"
+        "last_update": "2026-03-02 18:45:30"
     },
     "MSFT": {
         "symbol": "MSFT",
@@ -65,7 +65,7 @@
         "target": 595.99567,
         "range": "344.79 - 555.45",
         "fcf": 53640626176,
-        "last_update": "2026-03-02 18:42:56"
+        "last_update": "2026-03-02 18:45:30"
     },
     "SAN.MC": {
         "symbol": "SAN.MC",
@@ -82,13 +82,13 @@
         "target": 11.8455,
         "range": "4.645 - 11.26",
         "fcf": 0,
-        "last_update": "2026-03-02 18:42:56"
+        "last_update": "2026-03-02 18:45:30"
     },
     "BTC-EUR": {
         "symbol": "BTC-EUR",
         "company_name": "Bitcoin EUR",
-        "price": 59081.684,
-        "market_cap": 1181452861440,
+        "price": 59028.797,
+        "market_cap": 1180396421120,
         "pe_ratio": "N/A",
         "ps_ratio": "N/A",
         "beta": "N/A",
@@ -99,15 +99,15 @@
         "target": 0,
         "range": "51050.938 - 107745.13",
         "fcf": 0,
-        "last_update": "2026-03-02 18:42:56"
+        "last_update": "2026-03-02 18:45:30"
     },
     "ERO": {
         "symbol": "ERO",
         "company_name": "Ero Copper Corp.",
-        "price": 32.98,
-        "market_cap": 3435004416,
-        "pe_ratio": 24.796991,
-        "ps_ratio": 5.83957,
+        "price": 33.04,
+        "market_cap": 3441253888,
+        "pe_ratio": 24.842106,
+        "ps_ratio": 5.8501945,
         "beta": 1.565,
         "margin": 23.427999,
         "growth": 41.9,
@@ -116,15 +116,15 @@
         "target": 37.0,
         "range": "9.3 - 39.799",
         "fcf": -48765624,
-        "last_update": "2026-03-02 18:42:57"
+        "last_update": "2026-03-02 18:45:31"
     },
     "NVAX": {
         "symbol": "NVAX",
         "company_name": "Novavax, Inc.",
-        "price": 10.19,
-        "market_cap": 1655864704,
-        "pe_ratio": 5.0696516,
-        "ps_ratio": 1.4738723,
+        "price": 10.1939,
+        "market_cap": 1656498432,
+        "pe_ratio": 5.0715923,
+        "ps_ratio": 1.4744364,
         "beta": 2.632,
         "margin": 39.191002000000005,
         "growth": 66.60000000000001,
@@ -133,6 +133,6 @@
         "target": 13.77778,
         "range": "5.01 - 11.97",
         "fcf": -331942880,
-        "last_update": "2026-03-02 18:42:57"
+        "last_update": "2026-03-02 18:45:31"
     }
 }
