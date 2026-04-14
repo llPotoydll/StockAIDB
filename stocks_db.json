@@ -19,7 +19,7 @@
         "sma50": 993.26,
         "sma200": 947.42,
         "dist_high": 7.7,
-        "last_update": "2026-04-14 04:17:38"
+        "last_update": "2026-04-14 05:17:39"
     },
     "NVDA": {
         "symbol": "NVDA",
@@ -41,7 +41,7 @@
         "sma50": 182.01,
         "sma200": 180.9,
         "dist_high": 10.77,
-        "last_update": "2026-04-14 04:17:39"
+        "last_update": "2026-04-14 05:17:39"
     },
     "AAPL": {
         "symbol": "AAPL",
@@ -63,7 +63,7 @@
         "sma50": 260.87,
         "sma200": 250.6,
         "dist_high": 10.11,
-        "last_update": "2026-04-14 04:17:39"
+        "last_update": "2026-04-14 05:17:40"
     },
     "TSLA": {
         "symbol": "TSLA",
@@ -85,7 +85,7 @@
         "sma50": 393.02,
         "sma200": 397.48,
         "dist_high": 29.35,
-        "last_update": "2026-04-14 04:17:40"
+        "last_update": "2026-04-14 05:17:40"
     },
     "MSFT": {
         "symbol": "MSFT",
@@ -107,7 +107,7 @@
         "sma50": 392.66,
         "sma200": 472.06,
         "dist_high": 30.4,
-        "last_update": "2026-04-14 04:17:40"
+        "last_update": "2026-04-14 05:17:40"
     },
     "GOOGL": {
         "symbol": "GOOGL",
@@ -129,7 +129,7 @@
         "sma50": 307.9,
         "sma200": 269.01,
         "dist_high": 7.87,
-        "last_update": "2026-04-14 04:17:41"
+        "last_update": "2026-04-14 05:17:41"
     },
     "AMZN": {
         "symbol": "AMZN",
@@ -137,7 +137,7 @@
         "company_name": "Amazon.com, Inc.",
         "price": 239.89,
         "market_cap": 2579837485056,
-        "pe_ratio": 33.410866,
+        "pe_ratio": 33.457462,
         "ps_ratio": 3.5984812,
         "beta": 1.383,
         "margin": 10.8339995,
@@ -151,7 +151,7 @@
         "sma50": 213.37,
         "sma200": 225.0,
         "dist_high": 7.24,
-        "last_update": "2026-04-14 04:17:41"
+        "last_update": "2026-04-14 05:17:41"
     },
     "SAN.MC": {
         "symbol": "SAN.MC",
@@ -173,7 +173,7 @@
         "sma50": 10.15,
         "sma200": 9.07,
         "dist_high": 8.08,
-        "last_update": "2026-04-14 04:17:41"
+        "last_update": "2026-04-14 05:17:42"
     },
     "ITX.MC": {
         "symbol": "ITX.MC",
@@ -195,29 +195,29 @@
         "sma50": 53.8,
         "sma200": 49.14,
         "dist_high": 9.2,
-        "last_update": "2026-04-14 04:17:42"
+        "last_update": "2026-04-14 05:17:42"
     },
     "BTC-USD": {
         "symbol": "BTC-USD",
         "type": "crypto",
         "company_name": "Bitcoin USD",
-        "price": 74472.57,
-        "market_cap": 1490608717824,
+        "price": 74365.01,
+        "market_cap": 1488455729152,
         "pe_ratio": "N/A",
         "ps_ratio": "N/A",
         "beta": "N/A",
         "margin": 0,
-        "growth": 4.93597,
+        "growth": 4.966867,
         "roe": 0,
         "dividend": 0,
         "target": 0,
         "range": "60074.203 - 126198.07",
         "fcf": 0,
-        "rsi": 72.94,
-        "sma50": 69278.68,
-        "sma200": 87699.31,
-        "dist_high": 40.99,
-        "last_update": "2026-04-14 04:17:42"
+        "rsi": 72.78,
+        "sma50": 69276.69,
+        "sma200": 87698.81,
+        "dist_high": 41.07,
+        "last_update": "2026-04-14 05:17:43"
     },
     "ERO": {
         "symbol": "ERO",
@@ -239,7 +239,7 @@
         "sma50": 29.5,
         "sma200": 22.94,
         "dist_high": 19.29,
-        "last_update": "2026-04-14 04:17:42"
+        "last_update": "2026-04-14 05:17:43"
     },
     "MSTR": {
         "symbol": "MSTR",
@@ -261,7 +261,7 @@
         "sma50": 132.71,
         "sma200": 246.93,
         "dist_high": 71.05,
-        "last_update": "2026-04-14 04:17:43"
+        "last_update": "2026-04-14 05:17:43"
     },
     "URBN": {
         "symbol": "URBN",
@@ -283,7 +283,7 @@
         "sma50": 66.64,
         "sma200": 70.84,
         "dist_high": 20.07,
-        "last_update": "2026-04-14 04:17:43"
+        "last_update": "2026-04-14 05:17:44"
     },
     "AMD": {
         "symbol": "AMD",
@@ -305,7 +305,7 @@
         "sma50": 209.24,
         "sma200": 199.93,
         "dist_high": 7.58,
-        "last_update": "2026-04-14 04:17:44"
+        "last_update": "2026-04-14 05:17:44"
     },
     "INTC": {
         "symbol": "INTC",
@@ -327,7 +327,7 @@
         "sma50": 47.54,
         "sma200": 36.41,
         "dist_high": 0.72,
-        "last_update": "2026-04-14 04:17:44"
+        "last_update": "2026-04-14 05:17:44"
     },
     "META": {
         "symbol": "META",
@@ -335,7 +335,7 @@
         "company_name": "Meta Platforms, Inc.",
         "price": 634.53,
         "market_cap": 1605078876160,
-        "pe_ratio": 26.807352,
+        "pe_ratio": 27.024279,
         "ps_ratio": 7.9868183,
         "beta": 1.309,
         "margin": 30.084,
@@ -349,7 +349,7 @@
         "sma50": 631.19,
         "sma200": 681.32,
         "dist_high": 20.12,
-        "last_update": "2026-04-14 04:17:45"
+        "last_update": "2026-04-14 05:17:45"
     },
     "NFLX": {
         "symbol": "NFLX",
@@ -371,7 +371,7 @@
         "sma50": 90.1,
         "sma200": 106.41,
         "dist_high": 23.08,
-        "last_update": "2026-04-14 04:17:45"
+        "last_update": "2026-04-14 05:17:45"
     },
     "PYPL": {
         "symbol": "PYPL",
@@ -393,7 +393,7 @@
         "sma50": 44.51,
         "sma200": 60.74,
         "dist_high": 39.92,
-        "last_update": "2026-04-14 04:17:45"
+        "last_update": "2026-04-14 05:17:46"
     },
     "ADBE": {
         "symbol": "ADBE",
@@ -415,7 +415,7 @@
         "sma50": 257.36,
         "sma200": 323.42,
         "dist_high": 43.23,
-        "last_update": "2026-04-14 04:17:46"
+        "last_update": "2026-04-14 05:17:46"
     },
     "ASML": {
         "symbol": "ASML",
@@ -430,14 +430,14 @@
         "growth": 4.9,
         "roe": 50.458000000000006,
         "dividend": 59.0,
-        "target": 1507.3228,
+        "target": 1507.1454,
         "range": "614.06 - 1547.22",
         "fcf": 10854937600,
         "rsi": 62.25,
         "sma50": 1393.24,
         "sma200": 1069.09,
         "dist_high": 3.04,
-        "last_update": "2026-04-14 04:17:46"
+        "last_update": "2026-04-14 05:17:46"
     },
     "AVGO": {
         "symbol": "AVGO",
@@ -459,7 +459,7 @@
         "sma50": 327.11,
         "sma200": 329.52,
         "dist_high": 8.04,
-        "last_update": "2026-04-14 04:17:47"
+        "last_update": "2026-04-14 05:17:47"
     },
     "PEP": {
         "symbol": "PEP",
@@ -481,7 +481,7 @@
         "sma50": 159.61,
         "sma200": 146.18,
         "dist_high": 8.29,
-        "last_update": "2026-04-14 04:17:47"
+        "last_update": "2026-04-14 05:17:47"
     },
     "KO": {
         "symbol": "KO",
@@ -503,7 +503,7 @@
         "sma50": 77.27,
         "sma200": 70.68,
         "dist_high": 6.18,
-        "last_update": "2026-04-14 04:17:47"
+        "last_update": "2026-04-14 05:17:48"
     },
     "CSCO": {
         "symbol": "CSCO",
@@ -525,7 +525,7 @@
         "sma50": 79.47,
         "sma200": 72.94,
         "dist_high": 6.12,
-        "last_update": "2026-04-14 04:17:48"
+        "last_update": "2026-04-14 05:17:48"
     },
     "TMUS": {
         "symbol": "TMUS",
@@ -547,7 +547,7 @@
         "sma50": 209.22,
         "sma200": 217.72,
         "dist_high": 26.96,
-        "last_update": "2026-04-14 04:17:48"
+        "last_update": "2026-04-14 05:17:49"
     },
     "QCOM": {
         "symbol": "QCOM",
@@ -569,7 +569,7 @@
         "sma50": 135.46,
         "sma200": 156.03,
         "dist_high": 35.54,
-        "last_update": "2026-04-14 04:17:49"
+        "last_update": "2026-04-14 05:17:49"
     },
     "AMAT": {
         "symbol": "AMAT",
@@ -591,7 +591,7 @@
         "sma50": 352.05,
         "sma200": 254.52,
         "dist_high": 2.84,
-        "last_update": "2026-04-14 04:17:49"
+        "last_update": "2026-04-14 05:17:49"
     },
     "MU": {
         "symbol": "MU",
@@ -613,7 +613,7 @@
         "sma50": 402.63,
         "sma200": 251.36,
         "dist_high": 9.46,
-        "last_update": "2026-04-14 04:17:50"
+        "last_update": "2026-04-14 05:17:50"
     },
     "LRCX": {
         "symbol": "LRCX",
@@ -635,7 +635,7 @@
         "sma50": 228.46,
         "sma200": 162.58,
         "dist_high": 0.34,
-        "last_update": "2026-04-14 04:17:50"
+        "last_update": "2026-04-14 05:17:50"
     },
     "ADI": {
         "symbol": "ADI",
@@ -657,7 +657,7 @@
         "sma50": 327.84,
         "sma200": 270.0,
         "dist_high": 3.33,
-        "last_update": "2026-04-14 04:17:50"
+        "last_update": "2026-04-14 05:17:51"
     },
     "PANW": {
         "symbol": "PANW",
@@ -679,7 +679,7 @@
         "sma50": 160.8,
         "sma200": 186.67,
         "dist_high": 27.32,
-        "last_update": "2026-04-14 04:17:51"
+        "last_update": "2026-04-14 05:17:51"
     },
     "SNPS": {
         "symbol": "SNPS",
@@ -687,7 +687,7 @@
         "company_name": "Synopsys, Inc.",
         "price": 417.77,
         "market_cap": 80028868608,
-        "pe_ratio": 64.17358,
+        "pe_ratio": 64.07515,
         "ps_ratio": 9.994038,
         "beta": 1.148,
         "margin": 13.755999999999998,
@@ -701,7 +701,7 @@
         "sma50": 422.6,
         "sma200": 484.55,
         "dist_high": 35.9,
-        "last_update": "2026-04-14 04:17:51"
+        "last_update": "2026-04-14 05:17:52"
     },
     "CDNS": {
         "symbol": "CDNS",
@@ -723,7 +723,7 @@
         "sma50": 288.54,
         "sma200": 321.29,
         "dist_high": 23.44,
-        "last_update": "2026-04-14 04:17:52"
+        "last_update": "2026-04-14 05:17:52"
     },
     "KLAC": {
         "symbol": "KLAC",
@@ -745,7 +745,7 @@
         "sma50": 1484.84,
         "sma200": 1196.32,
         "dist_high": 0.17,
-        "last_update": "2026-04-14 04:17:52"
+        "last_update": "2026-04-14 05:17:52"
     },
     "MAR": {
         "symbol": "MAR",
@@ -767,7 +767,7 @@
         "sma50": 334.53,
         "sma200": 294.56,
         "dist_high": 2.63,
-        "last_update": "2026-04-14 04:17:52"
+        "last_update": "2026-04-14 05:17:53"
     },
     "ORCL": {
         "symbol": "ORCL",
@@ -789,7 +789,7 @@
         "sma50": 149.87,
         "sma200": 214.88,
         "dist_high": 54.63,
-        "last_update": "2026-04-14 04:17:53"
+        "last_update": "2026-04-14 05:17:53"
     },
     "CRM": {
         "symbol": "CRM",
@@ -811,7 +811,7 @@
         "sma50": 189.69,
         "sma200": 233.69,
         "dist_high": 41.19,
-        "last_update": "2026-04-14 04:17:53"
+        "last_update": "2026-04-14 05:17:53"
     },
     "ABNB": {
         "symbol": "ABNB",
@@ -833,7 +833,7 @@
         "sma50": 127.98,
         "sma200": 128.03,
         "dist_high": 9.42,
-        "last_update": "2026-04-14 04:17:54"
+        "last_update": "2026-04-14 05:17:54"
     },
     "BKNG": {
         "symbol": "BKNG",
@@ -855,7 +855,7 @@
         "sma50": 172.55,
         "sma200": 203.06,
         "dist_high": 23.66,
-        "last_update": "2026-04-14 04:17:54"
+        "last_update": "2026-04-14 05:17:54"
     },
     "V": {
         "symbol": "V",
@@ -877,7 +877,7 @@
         "sma50": 313.16,
         "sma200": 334.3,
         "dist_high": 17.13,
-        "last_update": "2026-04-14 04:17:54"
+        "last_update": "2026-04-14 05:17:55"
     },
     "MA": {
         "symbol": "MA",
@@ -899,7 +899,7 @@
         "sma50": 513.4,
         "sma200": 549.78,
         "dist_high": 15.1,
-        "last_update": "2026-04-14 04:17:55"
+        "last_update": "2026-04-14 05:17:55"
     },
     "DIS": {
         "symbol": "DIS",
@@ -921,7 +921,7 @@
         "sma50": 101.87,
         "sma200": 110.47,
         "dist_high": 18.31,
-        "last_update": "2026-04-14 04:17:55"
+        "last_update": "2026-04-14 05:17:55"
     },
     "NKE": {
         "symbol": "NKE",
@@ -943,7 +943,7 @@
         "sma50": 56.24,
         "sma200": 65.25,
         "dist_high": 45.5,
-        "last_update": "2026-04-14 04:17:56"
+        "last_update": "2026-04-14 05:17:56"
     },
     "SBUX": {
         "symbol": "SBUX",
@@ -965,7 +965,7 @@
         "sma50": 95.54,
         "sma200": 88.8,
         "dist_high": 6.4,
-        "last_update": "2026-04-14 04:17:56"
+        "last_update": "2026-04-14 05:17:56"
     },
     "COIN": {
         "symbol": "COIN",
@@ -973,7 +973,7 @@
         "company_name": "Coinbase Global, Inc.",
         "price": 174.53,
         "market_cap": 47063339008,
-        "pe_ratio": 37.69546,
+        "pe_ratio": 39.220226,
         "ps_ratio": 6.837185,
         "beta": 3.606,
         "margin": 18.310000000000002,
@@ -987,7 +987,7 @@
         "sma50": 179.08,
         "sma200": 276.19,
         "dist_high": 60.75,
-        "last_update": "2026-04-14 04:17:56"
+        "last_update": "2026-04-14 05:17:57"
     },
     "PLTR": {
         "symbol": "PLTR",
@@ -1009,7 +1009,7 @@
         "sma50": 143.94,
         "sma200": 164.11,
         "dist_high": 36.21,
-        "last_update": "2026-04-14 04:17:57"
+        "last_update": "2026-04-14 05:17:57"
     },
     "SHOP": {
         "symbol": "SHOP",
@@ -1017,7 +1017,7 @@
         "company_name": "Shopify Inc.",
         "price": 114.97,
         "market_cap": 149574500352,
-        "pe_ratio": 117.31632,
+        "pe_ratio": 122.30851,
         "ps_ratio": 12.94345,
         "beta": 2.822,
         "margin": 10.6520005,
@@ -1031,7 +1031,7 @@
         "sma50": 120.66,
         "sma200": 141.2,
         "dist_high": 36.9,
-        "last_update": "2026-04-14 04:17:57"
+        "last_update": "2026-04-14 05:17:57"
     },
     "U": {
         "symbol": "U",
@@ -1053,7 +1053,7 @@
         "sma50": 20.94,
         "sma200": 34.61,
         "dist_high": 56.28,
-        "last_update": "2026-04-14 04:17:58"
+        "last_update": "2026-04-14 05:17:58"
     },
     "SE": {
         "symbol": "SE",
@@ -1075,7 +1075,7 @@
         "sma50": 95.29,
         "sma200": 140.66,
         "dist_high": 56.64,
-        "last_update": "2026-04-14 04:17:58"
+        "last_update": "2026-04-14 05:17:58"
     },
     "MELI": {
         "symbol": "MELI",
@@ -1097,7 +1097,7 @@
         "sma50": 1820.52,
         "sma200": 2137.63,
         "dist_high": 30.75,
-        "last_update": "2026-04-14 04:17:59"
+        "last_update": "2026-04-14 05:17:59"
     },
     "BABA": {
         "symbol": "BABA",
@@ -1105,21 +1105,21 @@
         "company_name": "Alibaba Group Holding Limited",
         "price": 128.01,
         "market_cap": 306168725504,
-        "pe_ratio": 22.457895,
+        "pe_ratio": 22.576717,
         "ps_ratio": 0.30112666,
         "beta": 0.489,
         "margin": 8.912,
         "growth": 1.7000000000000002,
         "roe": 8.2329996,
         "dividend": 82.0,
-        "target": 189.02559,
+        "target": 189.01727,
         "range": "103.71 - 192.67",
         "fcf": -26119874560,
         "rsi": 53.09,
         "sma50": 140.71,
         "sma200": 146.58,
         "dist_high": 33.56,
-        "last_update": "2026-04-14 04:17:59"
+        "last_update": "2026-04-14 05:17:59"
     },
     "JD": {
         "symbol": "JD",
@@ -1134,14 +1134,14 @@
         "growth": 1.5,
         "roe": 7.6240000000000006,
         "dividend": 346.0,
-        "target": 38.921696,
+        "target": 38.919987,
         "range": "24.508 - 38.08",
         "fcf": -18114625536,
         "rsi": 67.39,
         "sma50": 26.96,
         "sma200": 29.65,
         "dist_high": 23.68,
-        "last_update": "2026-04-14 04:17:59"
+        "last_update": "2026-04-14 05:17:59"
     },
     "PDD": {
         "symbol": "PDD",
@@ -1149,21 +1149,21 @@
         "company_name": "PDD Holdings Inc.",
         "price": 100.8,
         "market_cap": 143100362752,
-        "pe_ratio": 10.20243,
+        "pe_ratio": 10.264767,
         "ps_ratio": 0.3313692,
         "beta": 0.058,
         "margin": 23.009,
         "growth": 12.0,
         "roe": 27.290002,
         "dividend": 0,
-        "target": 143.21104,
+        "target": 143.20474,
         "range": "91.53 - 139.41",
         "fcf": 83203022848,
         "rsi": 58.94,
         "sma50": 102.08,
         "sma200": 115.29,
         "dist_high": 27.7,
-        "last_update": "2026-04-14 04:18:00"
+        "last_update": "2026-04-14 05:18:00"
     },
     "TCEHY": {
         "symbol": "TCEHY",
@@ -1178,14 +1178,14 @@
         "growth": 12.7,
         "roe": 20.027,
         "dividend": 90.0,
-        "target": 96.35303,
+        "target": 96.348785,
         "range": "57.31 - 87.68",
         "fcf": 139386503168,
         "rsi": 46.09,
         "sma50": 67.08,
         "sma200": 74.76,
         "dist_high": 27.45,
-        "last_update": "2026-04-14 04:18:00"
+        "last_update": "2026-04-14 05:18:00"
     },
     "BBVA.MC": {
         "symbol": "BBVA.MC",
@@ -1207,7 +1207,7 @@
         "sma50": 18.73,
         "sma200": 16.91,
         "dist_high": 8.88,
-        "last_update": "2026-04-14 04:18:01"
+        "last_update": "2026-04-14 05:18:01"
     },
     "REP.MC": {
         "symbol": "REP.MC",
@@ -1229,7 +1229,7 @@
         "sma50": 20.48,
         "sma200": 15.98,
         "dist_high": 12.97,
-        "last_update": "2026-04-14 04:18:01"
+        "last_update": "2026-04-14 05:18:01"
     },
     "TEF.MC": {
         "symbol": "TEF.MC",
@@ -1251,7 +1251,7 @@
         "sma50": 3.66,
         "sma200": 3.91,
         "dist_high": 19.29,
-        "last_update": "2026-04-14 04:18:02"
+        "last_update": "2026-04-14 05:18:02"
     },
     "IBE.MC": {
         "symbol": "IBE.MC",
@@ -1273,7 +1273,7 @@
         "sma50": 19.66,
         "sma200": 17.45,
         "dist_high": 2.77,
-        "last_update": "2026-04-14 04:18:02"
+        "last_update": "2026-04-14 05:18:02"
     },
     "GRF.MC": {
         "symbol": "GRF.MC",
@@ -1295,7 +1295,7 @@
         "sma50": 10.02,
         "sma200": 11.13,
         "dist_high": 33.82,
-        "last_update": "2026-04-14 04:18:02"
+        "last_update": "2026-04-14 05:18:02"
     },
     "NVAX": {
         "symbol": "NVAX",
@@ -1317,7 +1317,7 @@
         "sma50": 9.16,
         "sma200": 8.09,
         "dist_high": 32.25,
-        "last_update": "2026-04-14 04:18:03"
+        "last_update": "2026-04-14 05:18:03"
     },
     "ASTS": {
         "symbol": "ASTS",
@@ -1339,7 +1339,7 @@
         "sma50": 90.96,
         "sma200": 71.51,
         "dist_high": 23.8,
-        "last_update": "2026-04-14 04:18:03"
+        "last_update": "2026-04-14 05:18:03"
     },
     "JPM": {
         "symbol": "JPM",
@@ -1361,7 +1361,7 @@
         "sma50": 298.21,
         "sma200": 300.33,
         "dist_high": 6.13,
-        "last_update": "2026-04-14 04:18:04"
+        "last_update": "2026-04-14 05:18:04"
     },
     "GS": {
         "symbol": "GS",
@@ -1383,7 +1383,7 @@
         "sma50": 869.69,
         "sma200": 809.55,
         "dist_high": 9.06,
-        "last_update": "2026-04-14 04:18:04"
+        "last_update": "2026-04-14 05:18:04"
     },
     "MS": {
         "symbol": "MS",
@@ -1405,7 +1405,7 @@
         "sma50": 168.83,
         "sma200": 161.26,
         "dist_high": 5.47,
-        "last_update": "2026-04-14 04:18:05"
+        "last_update": "2026-04-14 05:18:04"
     },
     "BAC": {
         "symbol": "BAC",
@@ -1427,7 +1427,7 @@
         "sma50": 50.54,
         "sma200": 50.56,
         "dist_high": 6.77,
-        "last_update": "2026-04-14 04:18:05"
+        "last_update": "2026-04-14 05:18:05"
     },
     "WFC": {
         "symbol": "WFC",
@@ -1449,7 +1449,7 @@
         "sma50": 83.45,
         "sma200": 83.87,
         "dist_high": 10.94,
-        "last_update": "2026-04-14 04:18:05"
+        "last_update": "2026-04-14 05:18:05"
     },
     "BLK": {
         "symbol": "BLK",
@@ -1471,7 +1471,7 @@
         "sma50": 1015.24,
         "sma200": 1073.86,
         "dist_high": 15.21,
-        "last_update": "2026-04-14 04:18:06"
+        "last_update": "2026-04-14 05:18:06"
     },
     "SCHW": {
         "symbol": "SCHW",
@@ -1493,7 +1493,7 @@
         "sma50": 95.81,
         "sma200": 95.36,
         "dist_high": 9.66,
-        "last_update": "2026-04-14 04:18:07"
+        "last_update": "2026-04-14 05:18:06"
     },
     "AXP": {
         "symbol": "AXP",
@@ -1515,7 +1515,7 @@
         "sma50": 318.89,
         "sma200": 333.9,
         "dist_high": 15.98,
-        "last_update": "2026-04-14 04:18:07"
+        "last_update": "2026-04-14 05:18:06"
     },
     "C": {
         "symbol": "C",
@@ -1537,7 +1537,7 @@
         "sma50": 113.71,
         "sma200": 103.69,
         "dist_high": 0.02,
-        "last_update": "2026-04-14 04:18:08"
+        "last_update": "2026-04-14 05:18:07"
     },
     "HSBC": {
         "symbol": "HSBC",
@@ -1559,7 +1559,7 @@
         "sma50": 84.41,
         "sma200": 71.86,
         "dist_high": 1.33,
-        "last_update": "2026-04-14 04:18:08"
+        "last_update": "2026-04-14 05:18:07"
     },
     "XOM": {
         "symbol": "XOM",
@@ -1581,7 +1581,7 @@
         "sma50": 154.02,
         "sma200": 123.89,
         "dist_high": 13.47,
-        "last_update": "2026-04-14 04:18:08"
+        "last_update": "2026-04-14 05:18:07"
     },
     "CVX": {
         "symbol": "CVX",
@@ -1603,7 +1603,7 @@
         "sma50": 190.85,
         "sma200": 161.5,
         "dist_high": 10.68,
-        "last_update": "2026-04-14 04:18:09"
+        "last_update": "2026-04-14 05:18:08"
     },
     "SHEL": {
         "symbol": "SHEL",
@@ -1625,7 +1625,7 @@
         "sma50": 85.24,
         "sma200": 75.01,
         "dist_high": 2.42,
-        "last_update": "2026-04-14 04:18:09"
+        "last_update": "2026-04-14 05:18:08"
     },
     "TTE": {
         "symbol": "TTE",
@@ -1647,7 +1647,7 @@
         "sma50": 81.68,
         "sma200": 66.84,
         "dist_high": 0.05,
-        "last_update": "2026-04-14 04:18:09"
+        "last_update": "2026-04-14 05:18:09"
     },
     "BP": {
         "symbol": "BP",
@@ -1669,7 +1669,7 @@
         "sma50": 41.56,
         "sma200": 35.54,
         "dist_high": 3.79,
-        "last_update": "2026-04-14 04:18:10"
+        "last_update": "2026-04-14 05:18:09"
     },
     "ENB": {
         "symbol": "ENB",
@@ -1684,14 +1684,14 @@
         "growth": 5.8999999999999995,
         "roe": 11.555000399999999,
         "dividend": 532.0,
-        "target": 50.493393,
+        "target": 50.479473,
         "range": "43.59 - 55.44",
         "fcf": -239250000,
         "rsi": 41.48,
         "sma50": 52.78,
         "sma200": 48.1,
         "dist_high": 3.55,
-        "last_update": "2026-04-14 04:18:10"
+        "last_update": "2026-04-14 05:18:10"
     },
     "NEE": {
         "symbol": "NEE",
@@ -1713,7 +1713,7 @@
         "sma50": 91.63,
         "sma200": 80.95,
         "dist_high": 4.06,
-        "last_update": "2026-04-14 04:18:11"
+        "last_update": "2026-04-14 05:18:10"
     },
     "DUK": {
         "symbol": "DUK",
@@ -1735,7 +1735,7 @@
         "sma50": 128.43,
         "sma200": 121.55,
         "dist_high": 3.04,
-        "last_update": "2026-04-14 04:18:11"
+        "last_update": "2026-04-14 05:18:11"
     },
     "SO": {
         "symbol": "SO",
@@ -1757,7 +1757,7 @@
         "sma50": 94.82,
         "sma200": 91.46,
         "dist_high": 3.67,
-        "last_update": "2026-04-14 04:18:12"
+        "last_update": "2026-04-14 05:18:11"
     },
     "SLB": {
         "symbol": "SLB",
@@ -1779,7 +1779,7 @@
         "sma50": 49.68,
         "sma200": 39.7,
         "dist_high": 5.26,
-        "last_update": "2026-04-14 04:18:12"
+        "last_update": "2026-04-14 05:18:11"
     },
     "BA": {
         "symbol": "BA",
@@ -1801,7 +1801,7 @@
         "sma50": 220.74,
         "sma200": 219.13,
         "dist_high": 12.66,
-        "last_update": "2026-04-14 04:18:12"
+        "last_update": "2026-04-14 05:18:12"
     },
     "CAT": {
         "symbol": "CAT",
@@ -1823,7 +1823,7 @@
         "sma50": 725.84,
         "sma200": 560.21,
         "dist_high": 0.85,
-        "last_update": "2026-04-14 04:18:13"
+        "last_update": "2026-04-14 05:18:12"
     },
     "DE": {
         "symbol": "DE",
@@ -1845,7 +1845,7 @@
         "sma50": 589.9,
         "sma200": 508.25,
         "dist_high": 10.29,
-        "last_update": "2026-04-14 04:18:13"
+        "last_update": "2026-04-14 05:18:12"
     },
     "GE": {
         "symbol": "GE",
@@ -1867,7 +1867,7 @@
         "sma50": 312.02,
         "sma200": 294.76,
         "dist_high": 10.37,
-        "last_update": "2026-04-14 04:18:14"
+        "last_update": "2026-04-14 05:18:13"
     },
     "RTX": {
         "symbol": "RTX",
@@ -1875,7 +1875,7 @@
         "company_name": "RTX Corporation",
         "price": 201.41,
         "market_cap": 271092678656,
-        "pe_ratio": 40.606853,
+        "pe_ratio": 40.688892,
         "ps_ratio": 3.0596333,
         "beta": 0.428,
         "margin": 7.598000000000001,
@@ -1889,7 +1889,7 @@
         "sma50": 200.39,
         "sma200": 175.15,
         "dist_high": 6.1,
-        "last_update": "2026-04-14 04:18:14"
+        "last_update": "2026-04-14 05:18:13"
     },
     "LMT": {
         "symbol": "LMT",
@@ -1911,7 +1911,7 @@
         "sma50": 636.53,
         "sma200": 513.22,
         "dist_high": 10.45,
-        "last_update": "2026-04-14 04:18:14"
+        "last_update": "2026-04-14 05:18:14"
     },
     "NOC": {
         "symbol": "NOC",
@@ -1919,7 +1919,7 @@
         "company_name": "Northrop Grumman Corporation",
         "price": 681.31,
         "market_cap": 96768606208,
-        "pe_ratio": 23.40467,
+        "pe_ratio": 23.420763,
         "ps_ratio": 2.3065405,
         "beta": 0.046,
         "margin": 9.968001,
@@ -1933,7 +1933,7 @@
         "sma50": 708.95,
         "sma200": 609.76,
         "dist_high": 11.98,
-        "last_update": "2026-04-14 04:18:15"
+        "last_update": "2026-04-14 05:18:14"
     },
     "HON": {
         "symbol": "HON",
@@ -1941,7 +1941,7 @@
         "company_name": "Honeywell International Inc.",
         "price": 233.64,
         "market_cap": 148046708736,
-        "pe_ratio": 33.714287,
+        "pe_ratio": 33.665707,
         "ps_ratio": 3.954028,
         "beta": 0.915,
         "margin": 12.629999999999999,
@@ -1955,7 +1955,7 @@
         "sma50": 234.37,
         "sma200": 209.95,
         "dist_high": 5.86,
-        "last_update": "2026-04-14 04:18:15"
+        "last_update": "2026-04-14 05:18:14"
     },
     "MMM": {
         "symbol": "MMM",
@@ -1963,13 +1963,13 @@
         "company_name": "3M Company",
         "price": 152.79,
         "market_cap": 80474488832,
-        "pe_ratio": 25.04754,
+        "pe_ratio": 25.464998,
         "ps_ratio": 3.225689,
         "beta": 1.158,
         "margin": 13.027,
         "growth": 2.0,
         "roe": 75.50099999999999,
-        "dividend": 208.0,
+        "dividend": 204.0,
         "target": 174.67412,
         "range": "124.65 - 177.41",
         "fcf": 1260249984,
@@ -1977,7 +1977,7 @@
         "sma50": 155.82,
         "sma200": 157.37,
         "dist_high": 13.49,
-        "last_update": "2026-04-14 04:18:15"
+        "last_update": "2026-04-14 05:18:15"
     },
     "UPS": {
         "symbol": "UPS",
@@ -1999,7 +1999,7 @@
         "sma50": 105.97,
         "sma200": 94.99,
         "dist_high": 15.49,
-        "last_update": "2026-04-14 04:18:16"
+        "last_update": "2026-04-14 05:18:15"
     },
     "FDX": {
         "symbol": "FDX",
@@ -2021,7 +2021,7 @@
         "sma50": 364.27,
         "sma200": 279.69,
         "dist_high": 4.95,
-        "last_update": "2026-04-14 04:18:16"
+        "last_update": "2026-04-14 05:18:16"
     },
     "UNP": {
         "symbol": "UNP",
@@ -2043,7 +2043,7 @@
         "sma50": 250.59,
         "sma200": 231.14,
         "dist_high": 6.27,
-        "last_update": "2026-04-14 04:18:17"
+        "last_update": "2026-04-14 05:18:16"
     },
     "CSX": {
         "symbol": "CSX",
@@ -2065,7 +2065,7 @@
         "sma50": 40.69,
         "sma200": 36.3,
         "dist_high": 2.31,
-        "last_update": "2026-04-14 04:18:17"
+        "last_update": "2026-04-14 05:18:17"
     },
     "DAL": {
         "symbol": "DAL",
@@ -2087,7 +2087,7 @@
         "sma50": 66.46,
         "sma200": 61.99,
         "dist_high": 11.99,
-        "last_update": "2026-04-14 04:18:17"
+        "last_update": "2026-04-14 05:18:17"
     },
     "UAL": {
         "symbol": "UAL",
@@ -2109,7 +2109,7 @@
         "sma50": 100.43,
         "sma200": 100.02,
         "dist_high": 20.14,
-        "last_update": "2026-04-14 04:18:18"
+        "last_update": "2026-04-14 05:18:17"
     },
     "RCL": {
         "symbol": "RCL",
@@ -2131,7 +2131,7 @@
         "sma50": 295.83,
         "sma200": 301.39,
         "dist_high": 22.03,
-        "last_update": "2026-04-14 04:18:18"
+        "last_update": "2026-04-14 05:18:18"
     },
     "CCL": {
         "symbol": "CCL",
@@ -2153,7 +2153,7 @@
         "sma50": 28.4,
         "sma200": 28.85,
         "dist_high": 18.08,
-        "last_update": "2026-04-14 04:18:18"
+        "last_update": "2026-04-14 05:18:18"
     },
     "LYV": {
         "symbol": "LYV",
@@ -2175,7 +2175,7 @@
         "sma50": 155.16,
         "sma200": 151.4,
         "dist_high": 5.44,
-        "last_update": "2026-04-14 04:18:19"
+        "last_update": "2026-04-14 05:18:19"
     },
     "TTWO": {
         "symbol": "TTWO",
@@ -2197,7 +2197,7 @@
         "sma50": 203.4,
         "sma200": 233.43,
         "dist_high": 23.95,
-        "last_update": "2026-04-14 04:18:19"
+        "last_update": "2026-04-14 05:18:19"
     },
     "EA": {
         "symbol": "EA",
@@ -2219,7 +2219,7 @@
         "sma50": 201.14,
         "sma200": 189.35,
         "dist_high": 1.04,
-        "last_update": "2026-04-14 04:18:20"
+        "last_update": "2026-04-14 05:18:19"
     },
     "ROKU": {
         "symbol": "ROKU",
@@ -2241,7 +2241,7 @@
         "sma50": 93.99,
         "sma200": 96.98,
         "dist_high": 11.43,
-        "last_update": "2026-04-14 04:18:20"
+        "last_update": "2026-04-14 05:18:20"
     },
     "SNOW": {
         "symbol": "SNOW",
@@ -2263,7 +2263,7 @@
         "sma50": 167.05,
         "sma200": 212.32,
         "dist_high": 52.17,
-        "last_update": "2026-04-14 04:18:20"
+        "last_update": "2026-04-14 05:18:20"
     },
     "CRWD": {
         "symbol": "CRWD",
@@ -2285,7 +2285,7 @@
         "sma50": 406.65,
         "sma200": 461.41,
         "dist_high": 29.05,
-        "last_update": "2026-04-14 04:18:21"
+        "last_update": "2026-04-14 05:18:21"
     },
     "DDOG": {
         "symbol": "DDOG",
@@ -2307,7 +2307,7 @@
         "sma50": 119.67,
         "sma200": 138.85,
         "dist_high": 45.42,
-        "last_update": "2026-04-14 04:18:21"
+        "last_update": "2026-04-14 05:18:21"
     },
     "NET": {
         "symbol": "NET",
@@ -2329,7 +2329,7 @@
         "sma50": 193.65,
         "sma200": 202.09,
         "dist_high": 29.22,
-        "last_update": "2026-04-14 04:18:21"
+        "last_update": "2026-04-14 05:18:21"
     },
     "ZS": {
         "symbol": "ZS",
@@ -2351,7 +2351,7 @@
         "sma50": 155.77,
         "sma200": 245.65,
         "dist_high": 63.61,
-        "last_update": "2026-04-14 04:18:22"
+        "last_update": "2026-04-14 05:18:22"
     },
     "MDB": {
         "symbol": "MDB",
@@ -2373,7 +2373,7 @@
         "sma50": 293.12,
         "sma200": 313.62,
         "dist_high": 46.9,
-        "last_update": "2026-04-14 04:18:22"
+        "last_update": "2026-04-14 05:18:22"
     },
     "OKTA": {
         "symbol": "OKTA",
@@ -2395,7 +2395,7 @@
         "sma50": 78.63,
         "sma200": 87.55,
         "dist_high": 48.69,
-        "last_update": "2026-04-14 04:18:23"
+        "last_update": "2026-04-14 05:18:23"
     },
     "FSLR": {
         "symbol": "FSLR",
@@ -2403,7 +2403,7 @@
         "company_name": "First Solar, Inc.",
         "price": 200.35,
         "market_cap": 21527760896,
-        "pe_ratio": 14.331188,
+        "pe_ratio": 14.109156,
         "ps_ratio": 4.124585,
         "beta": 1.607,
         "margin": 29.28,
@@ -2417,7 +2417,7 @@
         "sma50": 208.26,
         "sma200": 219.87,
         "dist_high": 29.95,
-        "last_update": "2026-04-14 04:18:23"
+        "last_update": "2026-04-14 05:18:23"
     },
     "ENPH": {
         "symbol": "ENPH",
@@ -2425,7 +2425,7 @@
         "company_name": "Enphase Energy, Inc.",
         "price": 31.37,
         "market_cap": 4134062336,
-        "pe_ratio": 24.130772,
+        "pe_ratio": 24.317831,
         "ps_ratio": 2.8065882,
         "beta": 1.381,
         "margin": 11.686,
@@ -2439,7 +2439,7 @@
         "sma50": 42.04,
         "sma200": 36.86,
         "dist_high": 43.39,
-        "last_update": "2026-04-14 04:18:23"
+        "last_update": "2026-04-14 05:18:23"
     },
     "ADX.MC": {
         "symbol": "ADX.MC",
@@ -2453,7 +2453,7 @@
         "margin": 1.8550001,
         "growth": -15.299999999999999,
         "roe": 16.841,
-        "dividend": 229.99999999999997,
+        "dividend": 231.0,
         "target": 2.35,
         "range": "0.0 - 1.75",
         "fcf": 90149000,
@@ -2461,7 +2461,7 @@
         "sma50": 1.32,
         "sma200": 1.36,
         "dist_high": 16.04,
-        "last_update": "2026-04-14 04:18:24"
+        "last_update": "2026-04-14 05:18:24"
     },
     "DPWA.DU": {
         "symbol": "DPWA.DU",
@@ -2479,10 +2479,10 @@
         "target": 0,
         "range": "0.0 - 25.6",
         "fcf": 0,
-        "rsi": 83.78,
-        "sma50": 23.56,
-        "sma200": 21.35,
+        "rsi": 76.54,
+        "sma50": 23.57,
+        "sma200": 21.37,
         "dist_high": 6.64,
-        "last_update": "2026-04-14 04:18:24"
+        "last_update": "2026-04-14 05:18:24"
     }
 }
